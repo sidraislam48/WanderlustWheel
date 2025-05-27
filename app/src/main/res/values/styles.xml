@@ -1,0 +1,10 @@
+<resources>
+    <style name="WanderlustWheel" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Set your parchment style here -->
+        <item name="android:windowBackground">@drawable/parchment_bg</item> <!-- Example background -->
+        <item name="android:textColorPrimary">#4B3E2F</item> <!-- Example ink color -->
+        <item name="colorPrimary">#A67C52</item>
+        <item name="colorAccent">#C19A6B</item>
+        <!-- Add more parchment-styled attributes as needed -->
+    </style>
+</resources>

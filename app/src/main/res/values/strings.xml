@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Wanderlust Wheel</string>
+
+    <!-- Descriptions for accessibility -->
+    <string name="desc_beach">Beach destination icon</string>
+    <string name="desc_forest">Forest destination icon</string>
+
+    <!-- Button labels -->
+    <string name="btn_reveal">Reveal My Destination ✨</string>
+    <string name="mood_sunny">☀️ Sunny</string>
+    <string name="mood_rainy">🌧 Rainy</string>
+
+    <!-- Messages -->
+    <string name="msg_select_prompt">Select your travel vibe!</string>
+    <string name="msg_select_both">Please select both a location and a mood.</string>
+    <string name="result_solaria">🌴 Solaria Cove – Crystal beaches and sun.</string>
+    <string name="result_misty">🌧 Misty Hollow – Magical foggy woodland.</string>
+    <string name="result_peaks">🏔 Wander Peaks – Mysterious mountainous fantasy realm.</string>
+</resources>

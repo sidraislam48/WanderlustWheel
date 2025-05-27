@@ -1,0 +1,317 @@
+[
+  {
+    "vibe": "beach",
+    "mood": "sunny",
+    "destination": {
+      "name": "Bora Bora, French Polynesia",
+      "image": "bora_bora.jpg",
+      "description": "A tropical paradise with turquoise waters and overwater bungalows."
+    }
+  },
+  {
+    "vibe": "beach",
+    "mood": "rainy",
+    "destination": {
+      "name": "Kerala, India",
+      "image": "kerala.jpg",
+      "description": "Monsoon-drenched beaches and calming backwaters."
+    }
+  },
+  {
+    "vibe": "beach",
+    "mood": "cloudy",
+    "destination": {
+      "name": "Bali, Indonesia",
+      "image": "bali.jpg",
+      "description": "Cultural beauty and volcanic beaches under dramatic skies."
+    }
+  },
+  {
+    "vibe": "forest",
+    "mood": "rainy",
+    "destination": {
+      "name": "Amazon Rainforest, Brazil",
+      "image": "amazon.jpg",
+      "description": "Misty green canopies echo with the sounds of nature."
+    }
+  },
+  {
+    "vibe": "forest",
+    "mood": "sunny",
+    "destination": {
+      "name": "Black Forest, Germany",
+      "image": "black_forest.jpg",
+      "description": "Sun-dappled trails through ancient woods and charming villages."
+    }
+  },
+  {
+    "vibe": "forest",
+    "mood": "foggy",
+    "destination": {
+      "name": "Yakushima, Japan",
+      "image": "yakushima.jpg",
+      "description": "Mystical landscapes blanketed by moss and soft fog."
+    }
+  },
+  {
+    "vibe": "mountain",
+    "mood": "snowy",
+    "destination": {
+      "name": "Zermatt, Switzerland",
+      "image": "zermatt.jpg",
+      "description": "Ski slopes and cozy cabins under snowy mountain peaks."
+    }
+  },
+  {
+    "vibe": "mountain",
+    "mood": "sunny",
+    "destination": {
+      "name": "Banff, Canada",
+      "image": "banff.jpg",
+      "description": "Blue glacial lakes and clear skies in the Rockies."
+    }
+  },
+  {
+    "vibe": "mountain",
+    "mood": "foggy",
+    "destination": {
+      "name": "Himalayas, Nepal",
+      "image": "himalayas.jpg",
+      "description": "Sacred mountains emerging through thick morning fog."
+    }
+  },
+  {
+    "vibe": "city",
+    "mood": "rainy",
+    "destination": {
+      "name": "London, UK",
+      "image": "london.jpg",
+      "description": "Charming streets and iconic sights amid misty rain."
+    }
+  },
+  {
+    "vibe": "city",
+    "mood": "cloudy",
+    "destination": {
+      "name": "Tokyo, Japan",
+      "image": "tokyo.jpg",
+      "description": "Neon-lit buzz beneath dramatic skies."
+    }
+  },
+  {
+    "vibe": "city",
+    "mood": "sunny",
+    "destination": {
+      "name": "Barcelona, Spain",
+      "image": "barcelona.jpg",
+      "description": "Gaudí's architecture and sunny coastal city vibes."
+    }
+  },
+  {
+    "vibe": "desert",
+    "mood": "sunny",
+    "destination": {
+      "name": "Sahara, Morocco",
+      "image": "sahara.jpg",
+      "description": "Golden dunes stretch endlessly under the desert sun."
+    }
+  },
+  {
+    "vibe": "desert",
+    "mood": "windy",
+    "destination": {
+      "name": "Atacama, Chile",
+      "image": "atacama.jpg",
+      "description": "Martian landscapes and fierce winds meet surreal beauty."
+    }
+  },
+  {
+    "vibe": "desert",
+    "mood": "cloudy",
+    "destination": {
+      "name": "Wadi Rum, Jordan",
+      "image": "wadi_rum.jpg",
+      "description": "Mars-like red sand under moody clouds."
+    }
+  },
+  {
+    "vibe": "island",
+    "mood": "sunny",
+    "destination": {
+      "name": "Santorini, Greece",
+      "image": "santorini.jpg",
+      "description": "Sun-kissed cliffs and whitewashed villages."
+    }
+  },
+  {
+    "vibe": "island",
+    "mood": "windy",
+    "destination": {
+      "name": "Madeira, Portugal",
+      "image": "madeira.jpg",
+      "description": "Lush volcanic islands surrounded by sea breezes."
+    }
+  },
+  {
+    "vibe": "island",
+    "mood": "rainy",
+    "destination": {
+      "name": "Jeju Island, South Korea",
+      "image": "jeju.jpg",
+      "description": "Rainy coastlines and waterfalls framed by basalt cliffs."
+    }
+  },
+  {
+    "vibe": "countryside",
+    "mood": "foggy",
+    "destination": {
+      "name": "Cotswolds, England",
+      "image": "cotswolds.jpg",
+      "description": "Rolling hills and cozy villages in morning fog."
+    }
+  },
+  {
+    "vibe": "countryside",
+    "mood": "sunny",
+    "destination": {
+      "name": "Tuscany, Italy",
+      "image": "tuscany.jpg",
+      "description": "Golden fields and vineyards under warm sunlight."
+    }
+  },
+  {
+    "vibe": "countryside",
+    "mood": "rainy",
+    "destination": {
+      "name": "Provence, France",
+      "image": "provence.jpg",
+      "description": "Lavender fields and stone cottages glistening with rain."
+    }
+  },
+  {
+    "vibe": "lake",
+    "mood": "sunny",
+    "destination": {
+      "name": "Lake Bled, Slovenia",
+      "image": "lake_bled.jpg",
+      "description": "Crystal lake with an island church and sunny skies."
+    }
+  },
+  {
+    "vibe": "lake",
+    "mood": "foggy",
+    "destination": {
+      "name": "Hallstatt, Austria",
+      "image": "hallstatt.jpg",
+      "description": "Dreamlike lakeside village wrapped in soft fog."
+    }
+  },
+  {
+    "vibe": "lake",
+    "mood": "rainy",
+    "destination": {
+      "name": "Lake District, UK",
+      "image": "lake_district.jpg",
+      "description": "Rolling hills and reflective waters kissed by raindrops."
+    }
+  },
+  {
+    "vibe": "historic",
+    "mood": "cloudy",
+    "destination": {
+      "name": "Petra, Jordan",
+      "image": "petra.jpg",
+      "description": "Ancient ruins carved into rose-red cliffs beneath cloudy skies."
+    }
+  },
+  {
+    "vibe": "historic",
+    "mood": "sunny",
+    "destination": {
+      "name": "Machu Picchu, Peru",
+      "image": "machu_picchu.jpg",
+      "description": "Lost Incan city basking in the high-altitude sun."
+    }
+  },
+  {
+    "vibe": "historic",
+    "mood": "foggy",
+    "destination": {
+      "name": "Edinburgh, Scotland",
+      "image": "edinburgh.jpg",
+      "description": "Medieval streets cloaked in mystery and morning mist."
+    }
+  },
+  {
+    "vibe": "snow",
+    "mood": "sunny",
+    "destination": {
+      "name": "Lapland, Finland",
+      "image": "lapland.jpg",
+      "description": "Snowy wonderlands and northern lights in sunny polar days."
+    }
+  },
+  {
+    "vibe": "snow",
+    "mood": "cloudy",
+    "destination": {
+      "name": "Reykjavik, Iceland",
+      "image": "reykjavik.jpg",
+      "description": "Modern cityscapes in a frozen fantasy under heavy skies."
+    }
+  },
+  {
+    "vibe": "snow",
+    "mood": "foggy",
+    "destination": {
+      "name": "Sapporo, Japan",
+      "image": "sapporo.jpg",
+      "description": "Powdery snow and soft fog combine in perfect harmony."
+    }
+  },
+  {
+    "vibe": "city",
+    "mood": "sunny",
+    "destination": {
+      "name": "Lahore",
+      "image": "lahore.jpg",
+      "description": "A sunny day exploring vibrant bazaars, Mughal architecture, and rich street food culture."
+    }
+  },
+  {
+    "vibe": "historic",
+    "mood": "cloudy",
+    "destination": {
+      "name": "Multan",
+      "image": "multan.jpg",
+      "description": "Ancient shrines and Sufi heritage come alive under a cloudy sky."
+    }
+  },
+  {
+    "vibe": "mountain",
+    "mood": "sunny",
+    "destination": {
+      "name": "Skardu",
+      "image": "skardu.jpg",
+      "description": "Sunny skies over majestic mountains and crystal-clear lakes."
+    }
+  },
+  {
+    "vibe": "lake",
+    "mood": "foggy",
+    "destination": {
+      "name": "Saif ul Malook",
+      "image": "saif_ul_malook.jpg",
+      "description": "A magical fog hugs the fairytale-like lake in the northern valleys."
+    }
+  },
+  {
+    "vibe": "countryside",
+    "mood": "rainy",
+    "destination": {
+      "name": "Swat Valley",
+      "image": "swat_valley.jpg",
+      "description": "Green hills and rivers bloom beautifully in the rain."
+    }
+  }
+]

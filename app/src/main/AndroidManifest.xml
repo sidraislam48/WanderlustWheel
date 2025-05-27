@@ -1,0 +1,31 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.wanderlustwheel">
+
+    <application
+        android:name="com.example.wanderlustwheel.App"
+        android:allowBackup="true"
+        android:icon="@drawable/appicon"
+        android:label="Wanderlust Wheel"
+        android:roundIcon="@drawable/appicon"
+        android:supportsRtl="true"
+        android:theme="@style/WanderlustWheel">
+
+        <activity android:name=".SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".StartActivity"
+            android:exported="true"/>
+
+        <activity android:name=".MainActivity"
+            android:exported="true"/>
+
+        <activity android:name=".ResultActivity"
+            android:exported="true"/>
+    </application>
+
+</manifest>

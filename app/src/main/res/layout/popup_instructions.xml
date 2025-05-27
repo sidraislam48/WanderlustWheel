@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/parchment_bg"
+    android:paddingTop="110dp"
+    android:paddingBottom="50dp"
+    android:paddingStart="32dp"
+    android:paddingEnd="32dp"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+    <TextView
+        android:id="@+id/instructionsTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="How to Use"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:layout_marginBottom="20dp" />
+
+    <TextView
+        android:id="@+id/instructionsBody"
+        android:layout_width="310dp"
+        android:layout_height="287dp"
+        android:layout_marginBottom="18dp"
+        android:gravity="center"
+        android:lineSpacingExtra="8dp"
+        android:text="Welcome to Wanderlust Wheel!\n\n1. Tap a destination vibe: Beach or Forest.\n2. Select your mood: Sunny or Rainy \n3. Tap 'Reveal My Destination' to discover your fantasy travel spot!\n4. Press the arrow button at the bottom to go back."
+        android:textColor="#000"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/gotItText"
+        android:layout_width="94dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:clickable="true"
+        android:focusable="true"
+        android:padding="10dp"
+        android:text="Got it!"
+        android:textColor="#3b5998"
+        android:textSize="19sp"
+        android:textStyle="bold" />
+</LinearLayout>
